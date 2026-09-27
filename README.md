@@ -50,3 +50,14 @@ yüklendiğinde uygulama belgelerin firma ve dönem kontrollerini gerçekleştir
 Yanlış döneme veya farklı bir firmaya ait belge yüklenirse bu belge tespit edilir ve sonuç tablosuna dahil edilmez.
 
 
+## 🖥️ Uygulama Ekranları
+
+### Mali Veriler Analiz Sonucu
+
+![Mali Veriler Analiz Sonucu](mali-veriler-analiz-sonucu.jpg)
+
+### Belge Kontrol Uyarıları
+
+![Belge Kontrol Uyarıları](belge-kontrol-uyarilari.jpg)
+
+
