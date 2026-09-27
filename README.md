@@ -61,3 +61,8 @@ Yanlış döneme veya farklı bir firmaya ait belge yüklenirse bu belge tespit 
 ![Belge Kontrol Uyarıları](belge-kontrol-uyarilari.jpg)
 
 
+## 🎥 Proje Videosu
+
+Uygulamanın çalışma mantığını ve farklı belge kontrol senaryolarını uygulamalı olarak anlattığım videoyu YouTube'da izleyebilirsiniz.
+
+https://www.youtube.com/watch?v=GaczxupWaOI
